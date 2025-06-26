@@ -81,7 +81,7 @@ export const TicTacToe = () => {
     boxes.forEach((box) => box.innerHTML = "");
   };
 
-  // --- Minimax Logic ---
+  
   const bestMove = (b) => {
     let bestScore = -Infinity;
     let move = -1;
