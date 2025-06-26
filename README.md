@@ -1,4 +1,3 @@
-![image](https://github.com/Prabrit/Tic-Tac-Toe/blob/main/images.jpeg)
 # Tic-Tac-Toe Game 
 This is a simple yet intelligent Tic Tac Toe game built with React.js, where a human player competes against an unbeatable computer powered by the Minimax algorithm. The computer always plays optimally and cannot be defeated! (Let's give a try ;) )
 
@@ -35,7 +34,7 @@ npm start
   ```bash
   npm install gh-pages --save-dev
   ```
-- Update package.json
+- Update `package.json`
   
   ```bash
   "homepage": "https://github.com/Prabrit/Tic-Tac-Toe.git",
@@ -51,10 +50,14 @@ npm start
     ```
 
 ## Screenshot
-![image](https://github.com/Prabrit/Tic-Tac-Toe/blob/main/Itsdraw.png)
+<img src="https://github.com/Prabrit/Tic-Tac-Toe/blob/main/Itsdraw.png" alt="Draw" width="200" height="300" />
 
-## Author 
-Prabrit Das
+
+### **That's it !! Enjoy your game !!**
+<img src="https://github.com/Prabrit/Tic-Tac-Toe/blob/main/tictactoe.jpg" alt="Draw" width="2000" height="200" />
+
+## Author
+Prabrit 
 
 
   
