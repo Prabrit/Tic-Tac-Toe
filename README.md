@@ -11,7 +11,7 @@ This is a simple yet intelligent Tic Tac Toe game built with React.js, where a h
 - For Web version of the game ->
     [Play Now 🎮](https://tic-tac-toe-mu-five-50.vercel.app/)
 - For Download and Install the game apk ->
-    [Download from here ⬇️](https://drive.google.com/file/d/1U1ICWapSNOEMBIhzwM4Eti8Ifu6dfBI4/view?usp=sharing)
+    [Download from here ⬇️](https://drive.google.com/file/d/1U1ICWapSNOEMBIhzwM4Eti8Ifu6dfBI4/view?usp=drive_link)
 
 ## Tech Stack
 - Html
